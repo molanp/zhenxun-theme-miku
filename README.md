@@ -10,25 +10,13 @@
 
 # 预览
 
-### 签到
-
-![签到](./preview/sign.jpg)
-
-### 个人信息
-
-![个人信息](./preview/my_info.jpg)
-
-### 帮助
-
-![帮助](./preview/help.jpg)
-
-### 单项帮助
-
-![单项帮助](./preview/help_item.jpg)
-
-### 商店
-
-![商店](./preview/shop.jpg)
+| 预览     | -                                    |
+| -------- | ------------------------------------ |
+| 签到     | ![签到](./preview/sign.jpg)          |
+| 个人信息 | ![个人信息](./preview/my_info.jpg)   |
+| 帮助     | ![帮助](./preview/help.jpg)          |
+| 单项帮助 | ![单项帮助](./preview/help_item.jpg) |
+| 商店     | ![商店](./preview/shop.jpg)          |
 
 ### 更多内容请自行探索...
 
