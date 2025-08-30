@@ -3,6 +3,6 @@
   
   "entrypoint": "main.html",
   "render_options": {
-   "viewport": { "width": 465, "height": 10 }
+   "viewport": { "width": 480, "height": 10 }
   }
 }
